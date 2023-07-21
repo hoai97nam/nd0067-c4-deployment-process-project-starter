@@ -1,3 +1,5 @@
+## CircleCI Badge
+[![<CircleCI>](https://circleci.com/gh/hoai97nam/nd0067-c4-deployment-process-project-starter.svg?style=svg)](https://github.com/hoai97nam/nd0067-c4-deployment-process-project-starter)
 # Hosting a Full-Stack Application
 
 ### **You can use you own project completed in previous courses or use the provided Udagram app for completing this final project.**
