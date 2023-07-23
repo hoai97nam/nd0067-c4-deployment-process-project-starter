@@ -1,9 +1,8 @@
 import { Injectable } from '@angular/core';
 import { HttpClient, HttpHeaders, HttpRequest, HttpEvent } from '@angular/common/http';
-import { environment } from '../../environments/environment';
 import { map } from 'rxjs/operators';
 
-const API_HOST = 'http://udagram-api-dev22.us-east-1.elasticbeanstalk.com/api/v0'; //environment.apiHost
+const API_HOST = 'http://udagram-api-dev22.us-east-1.elasticbeanstalk.com/api/v0';
 
 @Injectable({
   providedIn: 'root'
